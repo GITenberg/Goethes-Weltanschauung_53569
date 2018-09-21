@@ -1,0 +1,27 @@
+_repo: Goethes-Weltanschauung_53569
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steiner, Rudolf
+    alias: Steiner, Rudolph
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '26537'
+    url: http://www.gutenberg.org/2009/agents/26537
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
+description: ''
+gutenberg_issued: '2016-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53569'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anthroposophy'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Philosophy'
+- !lcc 'PT'
+- GITenberg
+title: Goethes Weltanschauung
+url: http://www.gutenberg.org/ebooks/53569
